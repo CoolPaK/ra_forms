@@ -25,5 +25,17 @@
     "eslint-plugin-react-refresh": "^0.4.3",
     "typescript": "^5.0.2",
     "vite": "^4.4.5"
-  }
+  },
+  "description": "homeworks",
+  "main": "main.tsx",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CoolPaK/ra_forms.git"
+  },
+  "author": "coolpak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoolPaK/ra_forms/issues"
+  },
+  "homepage": "https://github.com/CoolPaK/ra_forms#readme"
 }
